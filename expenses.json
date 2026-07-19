@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 300.0,
+        "category": "food",
+        "note": "lunch",
+        "date": "2026-07-20"
+    },
+    {
+        "amount": 200.0,
+        "category": "travel",
+        "note": "bangalore",
+        "date": "2026-07-20"
+    },
+    {
+        "amount": 100.0,
+        "category": "rent",
+        "note": "bus",
+        "date": "2026-07-20"
+    }
+]
